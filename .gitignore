@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+outputs/
+runs/
+*.mp4.tmp
+test_video/boat.mp4
+.github_upload.ps1
+海面船只检测.pt
